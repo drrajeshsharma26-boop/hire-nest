@@ -35,10 +35,12 @@ export const Hero: React.FC<HeroProps> = ({
 
             {/* SEO Optimized Description */}
             <p className="text-base sm:text-lg text-slate-600 max-w-xl leading-relaxed">
-              Build your career with HireNest Solution through practical IT
-              training, digital marketing courses, project-based learning
-              and professional skill development. Develop industry-relevant
-              skills and prepare for your career with expert guidance.
+              HireNest Solution is an IT training and career development
+              platform in Noida, helping students and job seekers build
+              industry-relevant skills. Explore practical IT training,
+              digital marketing courses, project-based learning and
+              professional skill development to prepare for career
+              opportunities.
             </p>
 
             {/* Call To Action Buttons */}
